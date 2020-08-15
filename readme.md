@@ -93,3 +93,10 @@ and visit localhost:5000 and start chatting.
 Note:
 
 You should have mongoDB installed and started for this application to work correctly.
+
+## License 
+
+[MIT](https://github.com/web-codegrammer/Real-Time-Chat-App/blob/master/LICENSE)
+
+Issued to ```Devanshu Vashishtha``` | All Rights Reserved | 2020
+
