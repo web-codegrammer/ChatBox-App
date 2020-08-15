@@ -96,7 +96,7 @@ You should have mongoDB installed and started for this application to work corre
 
 ## License 
 
-[MIT](https://github.com/web-codegrammer/Real-Time-Chat-App/blob/master/LICENSE)
+[MIT](https://github.com/web-codegrammer/ChatBox-App/blob/master/LICENSE)
 
 Issued to ```Devanshu Vashishtha``` | All Rights Reserved | 2020
 
