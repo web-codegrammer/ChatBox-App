@@ -1,12 +1,12 @@
-# Anonymous Real-time Chat
+#  Real time Chat Box App
 
 ## Introduction
 
-> This is anonymous chat app was created for a tutorial about Nodejs, Express, and Socket.io and MongoDB.
+> This is Real time chat app was created for Foxmula Internship Project Using Nodejs, Express, and Socket.io and MongoDB.
 
-You should have a good understanding of how socket.io works at the end of this tutorial or after taking a look at the code.
+You should have a good understanding of how socket.io works after taking a look at the code.
 
-You will also learn how to show that someone is typing in a chat application.
+You will also see how to show that someone is typing in a chat application.
 
 Here is a screenshot of it looks and functionality.
 
