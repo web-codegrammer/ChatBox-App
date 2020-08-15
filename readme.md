@@ -11,6 +11,7 @@ You will also see how to show that someone is typing in a chat application.
 Here is a screenshot of it looks and functionality.
 
 ![alt text](https://github.com/rexeze/anonymouse-realtime-chat-app/blob/master/screenshots/chatscreenshot.gif "Chat Screen Shot")
+![alt](https://i.ibb.co/J5sdnN4/chatbox-App.png)
 
 ## Code Samples
 
